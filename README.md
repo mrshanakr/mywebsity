@@ -1,0 +1,2 @@
+# mywebsity
+my static websity
